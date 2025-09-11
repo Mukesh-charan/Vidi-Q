@@ -1,0 +1,19 @@
+[00:00:00] Hello everyone, today we're going to learn about binary search.
+
+[00:00:03] Binary search is a super efficient algorithm for finding a specific value within a *sorted* array.  Imagine you have a huge phone book – you wouldn't start from the beginning and check each name, right? You'd open it roughly in the middle. That's the core idea behind binary search.
+
+[00:00:15] Let's look at an example:  (Visual: Sorted array appears [2, 5, 7, 8, 11, 12] highlighted in yellow.)  We're searching for the number 11.
+
+[00:00:22] (Visual: "Target: 11" appears at the top.) Our strategy is to repeatedly divide the search interval in half.  First, we check the middle element.  (Visual: A rectangle highlights the entire array.)
+
+[00:00:30] (Visual: "Mid: 8" appears below 8.) 8 is less than 11, so we discard the left half.  (Visual: The rectangle shrinks to highlight the right half.)
+
+[00:00:37] (Visual: "Mid: 11" appears below 11.) Now, the middle element is 11 – that's our target! (Visual: 11 turns green.)
+
+[00:00:43] (Visual: Rectangle and mid-text disappear.) We found it!  Binary search is incredibly fast because with each step, we eliminate half of the remaining search space.
+
+[00:00:50] If the middle element was greater than the target, we would have discarded the right half instead.  This process continues until the target is found or the search interval becomes empty, meaning the target isn't in the array.
+
+[00:01:02] (Visual: "Binary Search Found!" appears in green.)  So, binary search provides a much faster way to search within a sorted array compared to a linear search, which checks each element one by one.
+
+[00:01:12] That's it for today’s lesson on binary search. Remember, it’s crucial that your array is sorted for this algorithm to work effectively. Thanks for watching!
