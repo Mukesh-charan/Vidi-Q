@@ -1,0 +1,47 @@
+[
+  {
+    "input_text": "Ever wondered how your digital identity or transactions stay secure online? It's often thanks to cryptographic hash functions like SHA-256, vital for data integrity and blockchain.",
+    "input_data": {
+      "input_text": "Ever wondered how your digital identity or transactions stay secure online? It's often thanks to cryptographic hash functions like SHA-256, vital for data integrity and blockchain.",
+      "service": "gtts"
+    },
+    "original_audio": "ever-wondered-how-your-digital-identity-or-6ae31b92.mp3",
+    "final_audio": "ever-wondered-how-your-digital-identity-or-6ae31b92.mp3"
+  },
+  {
+    "input_text": "At its core, a hash function takes any input and produces a fixed-size string, a 'fingerprint'. Cryptographic hashes are special: they're one-way, meaning you can't reverse them, and highly collision-resistant.",
+    "input_data": {
+      "input_text": "At its core, a hash function takes any input and produces a fixed-size string, a 'fingerprint'. Cryptographic hashes are special: they're one-way, meaning you can't reverse them, and highly collision-resistant.",
+      "service": "gtts"
+    },
+    "original_audio": "at-its-core-a-hash-function-takes-any-input-and-d7ace7f7.mp3",
+    "final_audio": "at-its-core-a-hash-function-takes-any-input-and-d7ace7f7.mp3"
+  },
+  {
+    "input_text": "SHA-256, or Secure Hash Algorithm 256-bit, transforms any input data into a unique, fixed-length 256-bit hash. This output is typically displayed as a 64-character hexadecimal string. Even a tiny change in the input completely alters the hash \u2013 this 'avalanche effect' is key. The vast 2^256 possible outputs make finding two inputs with the same hash astronomically difficult.",
+    "input_data": {
+      "input_text": "SHA-256, or Secure Hash Algorithm 256-bit, transforms any input data into a unique, fixed-length 256-bit hash. This output is typically displayed as a 64-character hexadecimal string. Even a tiny change in the input completely alters the hash \u2013 this 'avalanche effect' is key. The vast 2^256 possible outputs make finding two inputs with the same hash astronomically difficult.",
+      "service": "gtts"
+    },
+    "original_audio": "sha-256-or-secure-hash-algorithm-256-bit-ab058e92.mp3",
+    "final_audio": "sha-256-or-secure-hash-algorithm-256-bit-ab058e92.mp3"
+  },
+  {
+    "input_text": "In blockchain, every transaction is hashed, creating an unbreakable chain. For passwords, systems store your password's SHA-256 hash, never the password itself, significantly boosting security.",
+    "input_data": {
+      "input_text": "In blockchain, every transaction is hashed, creating an unbreakable chain. For passwords, systems store your password's SHA-256 hash, never the password itself, significantly boosting security.",
+      "service": "gtts"
+    },
+    "original_audio": "in-blockchain-every-transaction-is-hashed-creating-d18229dd.mp3",
+    "final_audio": "in-blockchain-every-transaction-is-hashed-creating-d18229dd.mp3"
+  },
+  {
+    "input_text": "In essence, SHA-256 provides a robust, irreversible digital fingerprint for data, underpinning the security of countless digital systems.",
+    "input_data": {
+      "input_text": "In essence, SHA-256 provides a robust, irreversible digital fingerprint for data, underpinning the security of countless digital systems.",
+      "service": "gtts"
+    },
+    "original_audio": "in-essence-sha-256-provides-a-robust-irreversible-ec147f07.mp3",
+    "final_audio": "in-essence-sha-256-provides-a-robust-irreversible-ec147f07.mp3"
+  }
+]

@@ -21,12 +21,15 @@ for directory in [PROMPTS_DIR, MANIM_SCRIPTS_DIR, AUDIO_FILES_DIR, VIDEO_FILES_D
     directory.mkdir(parents=True, exist_ok=True)
 
 # API Configuration
+
+# --- API Configuration ---
+# This is the central spot for your API settings.
 API_CONFIG = {
+    # It's crucial that your API_KEY is set in the .env file.
     "api_key": os.getenv("API_KEY"),
-    "base_url": os.getenv("BASE_URL", "https://api.openai.com/v1"),
-    "model": os.getenv("MODEL_NAME", "gpt-4"),
-    "temperature": 0.7,
-    "max_tokens": 4000
+    
+    # We specify the model here for easy swapping in the future.
+    "model": "gemini-2.5-flash-preview-05-20",
 }
 
 # TTS Configuration (using pyttsx3)
