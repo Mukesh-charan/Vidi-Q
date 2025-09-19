@@ -1,3 +1,5 @@
 .env
 temp/
-.venv/c
+.venv/
+__pycache__/
+media/

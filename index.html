@@ -11,7 +11,8 @@
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <script async src="https://www.ailibrary.ai/cec.js?namespace=ellafromed-20250916043536&logo=https://www.ailibrary.ai/ailibrary.svg"></script>
+    <script async
+        src="https://www.ailibrary.ai/cec.js?namespace=ellafromed-20250916043536&logo=https://www.ailibrary.ai/ailibrary.svg"></script>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
@@ -51,10 +52,10 @@
         const { useState, useEffect, createContext, useContext, useMemo } = React;
 
         // --- INITIALIZE SUPABASE ---
-        // Replace with your actual Supabase URL and Anon Key
-        const SUPABASE_URL = 'https://qzwyrtmeentlidpgvuft.supabase.co';
-        const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF6d3lydG1lZW50bGlkcGd2dWZ0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc5NzA2ODUsImV4cCI6MjA3MzU0NjY4NX0.oEeHQoKhAxqCPdiXOYyC-LI4cts9ok4ew2BShPYYAEU';
+        const SUPABASE_URL = ''; //enter your url
+        const SUPABASE_ANON_KEY = ''; //enter your anon key
         const supabase = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+        
 
         /*
         -- REQUIRED SUPABASE SETUP --
@@ -187,9 +188,7 @@
 
         const geminiApiService = {
             async generateQuizWithGemini(captionContent, videoId) {
-                // IMPORTANT: It's highly recommended to handle API keys on the backend to keep them secure.
-                // This key is exposed on the client-side and should be replaced with a backend call in production.
-                const apiKey = "AIzaSyB3SELs4ZiTA6K3OG96FxbZa5ZHBt76QWg"; // IMPORTANT: Replace with your real Gemini API Key
+                const apiKey = ""; //give your gemini key
                 const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
 
                 const systemPrompt = `You are a quiz creator. Based on the transcript, create a JSON quiz with 4 multiple-choice questions. Each must have 'id', 'text', 'options' (array of 4 strings), and 'answer'. Output only the JSON object.`;
@@ -673,4 +672,3 @@
 </body>
 
 </html>
-

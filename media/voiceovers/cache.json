@@ -43,5 +43,446 @@
     },
     "original_audio": "in-essence-sha-256-provides-a-robust-irreversible-ec147f07.mp3",
     "final_audio": "in-essence-sha-256-provides-a-robust-irreversible-ec147f07.mp3"
+  },
+  {
+    "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+    "input_data": {
+      "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+      "service": "gtts"
+    },
+    "original_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3",
+    "final_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3"
+  },
+  {
+    "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+    "input_data": {
+      "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+      "service": "gtts"
+    },
+    "original_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3",
+    "final_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3"
+  },
+  {
+    "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+    "input_data": {
+      "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+      "service": "gtts"
+    },
+    "original_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3",
+    "final_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3"
+  },
+  {
+    "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+    "input_data": {
+      "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+      "service": "gtts"
+    },
+    "original_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3",
+    "final_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3"
+  },
+  {
+    "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+    "input_data": {
+      "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+      "service": "gtts"
+    },
+    "original_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3",
+    "final_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3"
+  },
+  {
+    "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+    "input_data": {
+      "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+      "service": "gtts"
+    },
+    "original_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3",
+    "final_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3"
+  },
+  {
+    "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+    "input_data": {
+      "input_text": "Circles are fundamental shapes, universally recognized for their perfect symmetry. But how exactly do we define a circle in geometry and why is it so important?",
+      "service": "gtts"
+    },
+    "original_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3",
+    "final_audio": "circles-are-fundamental-shapes-universally-ceaa7050.mp3"
+  },
+  {
+    "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+    "input_data": {
+      "input_text": "At its core, a circle is the set of all points equidistant from a central point. This distance is called the radius, and the central point is simply the center.",
+      "service": "gtts"
+    },
+    "original_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3",
+    "final_audio": "at-its-core-a-circle-is-the-set-of-all-points-ee94e89b.mp3"
+  },
+  {
+    "input_text": "Consider a coordinate plane. If the center is at the origin (0,0) and a point on the circle is (x,y), the distance formula gives us x-squared plus y-squared equals r-squared.",
+    "input_data": {
+      "input_text": "Consider a coordinate plane. If the center is at the origin (0,0) and a point on the circle is (x,y), the distance formula gives us x-squared plus y-squared equals r-squared.",
+      "service": "gtts"
+    },
+    "original_audio": "consider-a-coordinate-plane-if-the-center-is-at-76a8c081.mp3",
+    "final_audio": "consider-a-coordinate-plane-if-the-center-is-at-76a8c081.mp3"
+  },
+  {
+    "input_text": "For example, a circle with a radius of 3 centered at the origin has the equation x-squared plus y-squared equals 9. Every point on its circumference satisfies this relationship.",
+    "input_data": {
+      "input_text": "For example, a circle with a radius of 3 centered at the origin has the equation x-squared plus y-squared equals 9. Every point on its circumference satisfies this relationship.",
+      "service": "gtts"
+    },
+    "original_audio": "for-example-a-circle-with-a-radius-of-3-centered-194ff58a.mp3",
+    "final_audio": "for-example-a-circle-with-a-radius-of-3-centered-194ff58a.mp3"
+  },
+  {
+    "input_text": "So, the equation x-squared plus y-squared equals r-squared elegantly captures the essence of a circle, defining its perfect form from its center and radius.",
+    "input_data": {
+      "input_text": "So, the equation x-squared plus y-squared equals r-squared elegantly captures the essence of a circle, defining its perfect form from its center and radius.",
+      "service": "gtts"
+    },
+    "original_audio": "so-the-equation-x-squared-plus-y-squared-equals-r-4bdb969f.mp3",
+    "final_audio": "so-the-equation-x-squared-plus-y-squared-equals-r-4bdb969f.mp3"
+  },
+  {
+    "input_text": "Circles are everywhere, from planets to pizzas! But how do we describe their perfect symmetry mathematically? Let's discover the equation of a circle.",
+    "input_data": {
+      "input_text": "Circles are everywhere, from planets to pizzas! But how do we describe their perfect symmetry mathematically? Let's discover the equation of a circle.",
+      "service": "gtts"
+    },
+    "original_audio": "circles-are-everywhere-from-planets-to-pizzas-but-8d4f85dc.mp3",
+    "final_audio": "circles-are-everywhere-from-planets-to-pizzas-but-8d4f85dc.mp3"
+  },
+  {
+    "input_text": "A circle is all points equidistant from its center. We'll use the distance formula: d equals the square root of (x2 minus x1) squared plus (y2 minus y1) squared. This connects directly to the Pythagorean theorem on a coordinate plane.",
+    "input_data": {
+      "input_text": "A circle is all points equidistant from its center. We'll use the distance formula: d equals the square root of (x2 minus x1) squared plus (y2 minus y1) squared. This connects directly to the Pythagorean theorem on a coordinate plane.",
+      "service": "gtts"
+    },
+    "original_audio": "a-circle-is-all-points-equidistant-from-its-center-41e6b89e.mp3",
+    "final_audio": "a-circle-is-all-points-equidistant-from-its-center-41e6b89e.mp3"
+  },
+  {
+    "input_text": "Circles are everywhere, from planets to pizzas! But how do we describe their perfect symmetry mathematically? Let's discover the equation of a circle.",
+    "input_data": {
+      "input_text": "Circles are everywhere, from planets to pizzas! But how do we describe their perfect symmetry mathematically? Let's discover the equation of a circle.",
+      "service": "gtts"
+    },
+    "original_audio": "circles-are-everywhere-from-planets-to-pizzas-but-8d4f85dc.mp3",
+    "final_audio": "circles-are-everywhere-from-planets-to-pizzas-but-8d4f85dc.mp3"
+  },
+  {
+    "input_text": "A circle is all points equidistant from its center. We'll use the distance formula: d equals the square root of (x2 minus x1) squared plus (y2 minus y1) squared. This connects directly to the Pythagorean theorem on a coordinate plane.",
+    "input_data": {
+      "input_text": "A circle is all points equidistant from its center. We'll use the distance formula: d equals the square root of (x2 minus x1) squared plus (y2 minus y1) squared. This connects directly to the Pythagorean theorem on a coordinate plane.",
+      "service": "gtts"
+    },
+    "original_audio": "a-circle-is-all-points-equidistant-from-its-center-41e6b89e.mp3",
+    "final_audio": "a-circle-is-all-points-equidistant-from-its-center-41e6b89e.mp3"
+  },
+  {
+    "input_text": "A circle is all points equidistant from a center (h, k). Any point on the circle is (x, y), with a constant distance 'r', the radius. Applying the distance formula, we get: the square root of (x-h) squared plus (y-k) squared equals r. Squaring both sides reveals the standard equation of a circle: (x-h) squared plus (y-k) squared equals r squared.",
+    "input_data": {
+      "input_text": "A circle is all points equidistant from a center (h, k). Any point on the circle is (x, y), with a constant distance 'r', the radius. Applying the distance formula, we get: the square root of (x-h) squared plus (y-k) squared equals r. Squaring both sides reveals the standard equation of a circle: (x-h) squared plus (y-k) squared equals r squared.",
+      "service": "gtts"
+    },
+    "original_audio": "a-circle-is-all-points-equidistant-from-a-center-h-7e02d30d.mp3",
+    "final_audio": "a-circle-is-all-points-equidistant-from-a-center-h-7e02d30d.mp3"
+  },
+  {
+    "input_text": "Circles are everywhere, from planets to pizzas! But how do we describe their perfect symmetry mathematically? Let's discover the equation of a circle.",
+    "input_data": {
+      "input_text": "Circles are everywhere, from planets to pizzas! But how do we describe their perfect symmetry mathematically? Let's discover the equation of a circle.",
+      "service": "gtts"
+    },
+    "original_audio": "circles-are-everywhere-from-planets-to-pizzas-but-8d4f85dc.mp3",
+    "final_audio": "circles-are-everywhere-from-planets-to-pizzas-but-8d4f85dc.mp3"
+  },
+  {
+    "input_text": "A circle is all points equidistant from its center. We'll use the distance formula: d equals the square root of (x2 minus x1) squared plus (y2 minus y1) squared. This connects directly to the Pythagorean theorem on a coordinate plane.",
+    "input_data": {
+      "input_text": "A circle is all points equidistant from its center. We'll use the distance formula: d equals the square root of (x2 minus x1) squared plus (y2 minus y1) squared. This connects directly to the Pythagorean theorem on a coordinate plane.",
+      "service": "gtts"
+    },
+    "original_audio": "a-circle-is-all-points-equidistant-from-its-center-41e6b89e.mp3",
+    "final_audio": "a-circle-is-all-points-equidistant-from-its-center-41e6b89e.mp3"
+  },
+  {
+    "input_text": "A circle is all points equidistant from a center (h, k). Any point on the circle is (x, y), with a constant distance 'r', the radius. Applying the distance formula, we get: the square root of (x-h) squared plus (y-k) squared equals r. Squaring both sides reveals the standard equation of a circle: (x-h) squared plus (y-k) squared equals r squared.",
+    "input_data": {
+      "input_text": "A circle is all points equidistant from a center (h, k). Any point on the circle is (x, y), with a constant distance 'r', the radius. Applying the distance formula, we get: the square root of (x-h) squared plus (y-k) squared equals r. Squaring both sides reveals the standard equation of a circle: (x-h) squared plus (y-k) squared equals r squared.",
+      "service": "gtts"
+    },
+    "original_audio": "a-circle-is-all-points-equidistant-from-a-center-h-7e02d30d.mp3",
+    "final_audio": "a-circle-is-all-points-equidistant-from-a-center-h-7e02d30d.mp3"
+  },
+  {
+    "input_text": "For a circle at (2, -3) with radius 5: (x-2) squared plus (y-(-3)) squared equals 5 squared. This simplifies to (x-2) squared plus (y+3) squared equals 25. See how the center and radius fit!",
+    "input_data": {
+      "input_text": "For a circle at (2, -3) with radius 5: (x-2) squared plus (y-(-3)) squared equals 5 squared. This simplifies to (x-2) squared plus (y+3) squared equals 25. See how the center and radius fit!",
+      "service": "gtts"
+    },
+    "original_audio": "for-a-circle-at-2-3-with-radius-5-x-2-squared-plus-7e47c733.mp3",
+    "final_audio": "for-a-circle-at-2-3-with-radius-5-x-2-squared-plus-7e47c733.mp3"
+  },
+  {
+    "input_text": "So, (x-h) squared plus (y-k) squared equals r squared beautifully defines any circle, connecting its center (h,k) and radius 'r' to its shape. A truly powerful and elegant equation!",
+    "input_data": {
+      "input_text": "So, (x-h) squared plus (y-k) squared equals r squared beautifully defines any circle, connecting its center (h,k) and radius 'r' to its shape. A truly powerful and elegant equation!",
+      "service": "gtts"
+    },
+    "original_audio": "so-x-h-squared-plus-y-k-squared-equals-r-squared-e1f7c7f1.mp3",
+    "final_audio": "so-x-h-squared-plus-y-k-squared-equals-r-squared-e1f7c7f1.mp3"
+  },
+  {
+    "input_text": "How do big data systems handle massive datasets efficiently and reliably? The secret often lies in something called an RDD.",
+    "input_data": {
+      "input_text": "How do big data systems handle massive datasets efficiently and reliably? The secret often lies in something called an RDD.",
+      "service": "gtts"
+    },
+    "original_audio": "how-do-big-data-systems-handle-massive-datasets-f1ed9924.mp3",
+    "final_audio": "how-do-big-data-systems-handle-massive-datasets-f1ed9924.mp3"
+  },
+  {
+    "input_text": "Big Data processing needs fault tolerance and parallelization. Traditional data structures struggle with this at scale.",
+    "input_data": {
+      "input_text": "Big Data processing needs fault tolerance and parallelization. Traditional data structures struggle with this at scale.",
+      "service": "gtts"
+    },
+    "original_audio": "big-data-processing-needs-fault-tolerance-and-759462c2.mp3",
+    "final_audio": "big-data-processing-needs-fault-tolerance-and-759462c2.mp3"
+  },
+  {
+    "input_text": "An RDD, or Resilient Distributed Dataset, is a fundamental data structure in frameworks like Apache Spark. Resilient means it can rebuild lost partitions using its lineage. Distributed means it's spread across many machines for parallel processing. And Dataset refers to an immutable collection of elements.",
+    "input_data": {
+      "input_text": "An RDD, or Resilient Distributed Dataset, is a fundamental data structure in frameworks like Apache Spark. Resilient means it can rebuild lost partitions using its lineage. Distributed means it's spread across many machines for parallel processing. And Dataset refers to an immutable collection of elements.",
+      "service": "gtts"
+    },
+    "original_audio": "an-rdd-or-resilient-distributed-dataset-is-a-a567c874.mp3",
+    "final_audio": "an-rdd-or-resilient-distributed-dataset-is-a-a567c874.mp3"
+  },
+  {
+    "input_text": "Imagine filtering a huge log file. An RDD lets you define transformations like 'map' or 'filter' on your data, which are then executed lazily and in parallel.",
+    "input_data": {
+      "input_text": "Imagine filtering a huge log file. An RDD lets you define transformations like 'map' or 'filter' on your data, which are then executed lazily and in parallel.",
+      "service": "gtts"
+    },
+    "original_audio": "imagine-filtering-a-huge-log-file-an-rdd-lets-you-b8313f32.mp3",
+    "final_audio": "imagine-filtering-a-huge-log-file-an-rdd-lets-you-b8313f32.mp3"
+  },
+  {
+    "input_text": "RDDs are key to scalable, fault-tolerant Big Data processing, enabling efficient parallel computation across clusters.",
+    "input_data": {
+      "input_text": "RDDs are key to scalable, fault-tolerant Big Data processing, enabling efficient parallel computation across clusters.",
+      "service": "gtts"
+    },
+    "original_audio": "rdds-are-key-to-scalable-fault-tolerant-big-data-168c47db.mp3",
+    "final_audio": "rdds-are-key-to-scalable-fault-tolerant-big-data-168c47db.mp3"
+  },
+  {
+    "input_text": "How do computers understand programming languages? The magic behind parsing complex syntax often involves a powerful theoretical machine called a Push Down Automaton, or PDA.",
+    "input_data": {
+      "input_text": "How do computers understand programming languages? The magic behind parsing complex syntax often involves a powerful theoretical machine called a Push Down Automaton, or PDA.",
+      "service": "gtts"
+    },
+    "original_audio": "how-do-computers-understand-programming-languages-665a89e8.mp3",
+    "final_audio": "how-do-computers-understand-programming-languages-665a89e8.mp3"
+  },
+  {
+    "input_text": "Remember Finite Automata? They recognize regular languages. But for more complex patterns, like matching parentheses, we need memory. PDAs add a stack for this very purpose.",
+    "input_data": {
+      "input_text": "Remember Finite Automata? They recognize regular languages. But for more complex patterns, like matching parentheses, we need memory. PDAs add a stack for this very purpose.",
+      "service": "gtts"
+    },
+    "original_audio": "remember-finite-automata-they-recognize-regular-edde1776.mp3",
+    "final_audio": "remember-finite-automata-they-recognize-regular-edde1776.mp3"
+  },
+  {
+    "input_text": "How do computers understand programming languages? The magic behind parsing complex syntax often involves a powerful theoretical machine called a Push Down Automaton, or PDA.",
+    "input_data": {
+      "input_text": "How do computers understand programming languages? The magic behind parsing complex syntax often involves a powerful theoretical machine called a Push Down Automaton, or PDA.",
+      "service": "gtts"
+    },
+    "original_audio": "how-do-computers-understand-programming-languages-665a89e8.mp3",
+    "final_audio": "how-do-computers-understand-programming-languages-665a89e8.mp3"
+  },
+  {
+    "input_text": "Remember Finite Automata? They recognize regular languages. But for more complex patterns, like matching parentheses, we need memory. PDAs add a stack for this very purpose.",
+    "input_data": {
+      "input_text": "Remember Finite Automata? They recognize regular languages. But for more complex patterns, like matching parentheses, we need memory. PDAs add a stack for this very purpose.",
+      "service": "gtts"
+    },
+    "original_audio": "remember-finite-automata-they-recognize-regular-edde1776.mp3",
+    "final_audio": "remember-finite-automata-they-recognize-regular-edde1776.mp3"
+  },
+  {
+    "input_text": "How do computers understand programming languages? The magic behind parsing complex syntax often involves a powerful theoretical machine called a Push Down Automaton, or PDA.",
+    "input_data": {
+      "input_text": "How do computers understand programming languages? The magic behind parsing complex syntax often involves a powerful theoretical machine called a Push Down Automaton, or PDA.",
+      "service": "gtts"
+    },
+    "original_audio": "how-do-computers-understand-programming-languages-665a89e8.mp3",
+    "final_audio": "how-do-computers-understand-programming-languages-665a89e8.mp3"
+  },
+  {
+    "input_text": "Remember Finite Automata? They recognize regular languages. But for more complex patterns, like matching parentheses, we need memory. PDAs add a stack for this very purpose.",
+    "input_data": {
+      "input_text": "Remember Finite Automata? They recognize regular languages. But for more complex patterns, like matching parentheses, we need memory. PDAs add a stack for this very purpose.",
+      "service": "gtts"
+    },
+    "original_audio": "remember-finite-automata-they-recognize-regular-edde1776.mp3",
+    "final_audio": "remember-finite-automata-they-recognize-regular-edde1776.mp3"
+  },
+  {
+    "input_text": "A Push Down Automaton combines a finite automaton with an unbounded stack. It operates by reading an input symbol, considering its current state, and the top of its stack. Based on these, it transitions to a new state and modifies the stack, either by pushing or popping symbols.",
+    "input_data": {
+      "input_text": "A Push Down Automaton combines a finite automaton with an unbounded stack. It operates by reading an input symbol, considering its current state, and the top of its stack. Based on these, it transitions to a new state and modifies the stack, either by pushing or popping symbols.",
+      "service": "gtts"
+    },
+    "original_audio": "a-push-down-automaton-combines-a-finite-automaton-780eebc7.mp3",
+    "final_audio": "a-push-down-automaton-combines-a-finite-automaton-780eebc7.mp3"
+  },
+  {
+    "input_text": "Consider checking well-formed parentheses. An opening parenthesis is pushed onto the stack. A closing one causes a pop, *if* the stack top is an opening parenthesis. If the stack is empty at the end, the string is valid.",
+    "input_data": {
+      "input_text": "Consider checking well-formed parentheses. An opening parenthesis is pushed onto the stack. A closing one causes a pop, *if* the stack top is an opening parenthesis. If the stack is empty at the end, the string is valid.",
+      "service": "gtts"
+    },
+    "original_audio": "consider-checking-well-formed-parentheses-an-c9a16678.mp3",
+    "final_audio": "consider-checking-well-formed-parentheses-an-c9a16678.mp3"
+  },
+  {
+    "input_text": "PDAs are essential for recognizing context-free languages, providing the memory needed to parse structured data. They are fundamental to compilers and understanding programming language grammars.",
+    "input_data": {
+      "input_text": "PDAs are essential for recognizing context-free languages, providing the memory needed to parse structured data. They are fundamental to compilers and understanding programming language grammars.",
+      "service": "gtts"
+    },
+    "original_audio": "pdas-are-essential-for-recognizing-context-free-95071005.mp3",
+    "final_audio": "pdas-are-essential-for-recognizing-context-free-95071005.mp3"
+  },
+  {
+    "input_text": "Imagine modeling a system, like a car on a predictable road. But what happens when an entirely unexpected variable, say, a 'dinosaur', suddenly appears?",
+    "input_data": {
+      "input_text": "Imagine modeling a system, like a car on a predictable road. But what happens when an entirely unexpected variable, say, a 'dinosaur', suddenly appears?",
+      "service": "gtts"
+    },
+    "original_audio": "imagine-modeling-a-system-like-a-car-on-a-db66d093.mp3",
+    "final_audio": "imagine-modeling-a-system-like-a-car-on-a-db66d093.mp3"
+  },
+  {
+    "input_text": "Imagine modeling a system, like a car on a predictable road. But what happens when an entirely unexpected variable, say, a 'dinosaur', suddenly appears?",
+    "input_data": {
+      "input_text": "Imagine modeling a system, like a car on a predictable road. But what happens when an entirely unexpected variable, say, a 'dinosaur', suddenly appears?",
+      "service": "gtts"
+    },
+    "original_audio": "imagine-modeling-a-system-like-a-car-on-a-db66d093.mp3",
+    "final_audio": "imagine-modeling-a-system-like-a-car-on-a-db66d093.mp3"
+  },
+  {
+    "input_text": "Imagine modeling a system, like a car on a predictable road. But what happens when an entirely unexpected variable, say, a 'dinosaur', suddenly appears?",
+    "input_data": {
+      "input_text": "Imagine modeling a system, like a car on a predictable road. But what happens when an entirely unexpected variable, say, a 'dinosaur', suddenly appears?",
+      "service": "gtts"
+    },
+    "original_audio": "imagine-modeling-a-system-like-a-car-on-a-db66d093.mp3",
+    "final_audio": "imagine-modeling-a-system-like-a-car-on-a-db66d093.mp3"
+  },
+  {
+    "input_text": "In mathematics, we often use linear functions to predict motion. A simple y equals mx plus b describes a constant speed, assuming a smooth, undisturbed path.",
+    "input_data": {
+      "input_text": "In mathematics, we often use linear functions to predict motion. A simple y equals mx plus b describes a constant speed, assuming a smooth, undisturbed path.",
+      "service": "gtts"
+    },
+    "original_audio": "in-mathematics-we-often-use-linear-functions-to-1ddd1378.mp3",
+    "final_audio": "in-mathematics-we-often-use-linear-functions-to-1ddd1378.mp3"
+  },
+  {
+    "input_text": "The 'dinosaur in the road' represents a sudden, non-linear perturbation. It's a stochastic event, an outlier that defies our initial, simplified models, forcing us to rethink our assumptions.",
+    "input_data": {
+      "input_text": "The 'dinosaur in the road' represents a sudden, non-linear perturbation. It's a stochastic event, an outlier that defies our initial, simplified models, forcing us to rethink our assumptions.",
+      "service": "gtts"
+    },
+    "original_audio": "the-dinosaur-in-the-road-represents-a-sudden-non-88e4138e.mp3",
+    "final_audio": "the-dinosaur-in-the-road-represents-a-sudden-non-88e4138e.mp3"
+  },
+  {
+    "input_text": "Consider a point moving along this predicted path. The 'dinosaur' introduces chaos, forcing the path to deviate, demonstrating the limits of deterministic predictions.",
+    "input_data": {
+      "input_text": "Consider a point moving along this predicted path. The 'dinosaur' introduces chaos, forcing the path to deviate, demonstrating the limits of deterministic predictions.",
+      "service": "gtts"
+    },
+    "original_audio": "consider-a-point-moving-along-this-predicted-path-7e0c3fe1.mp3",
+    "final_audio": "consider-a-point-moving-along-this-predicted-path-7e0c3fe1.mp3"
+  },
+  {
+    "input_text": "So, while models provide structure, remember that real-world scenarios often hide 'dinosaurs,' reminding us to build flexibility and account for the unpredictable.",
+    "input_data": {
+      "input_text": "So, while models provide structure, remember that real-world scenarios often hide 'dinosaurs,' reminding us to build flexibility and account for the unpredictable.",
+      "service": "gtts"
+    },
+    "original_audio": "so-while-models-provide-structure-remember-that-8e87a676.mp3",
+    "final_audio": "so-while-models-provide-structure-remember-that-8e87a676.mp3"
+  },
+  {
+    "input_text": "Ever wondered how resistant materials are to compression? This fundamental property in physics and engineering is called the Bulk Modulus, a measure of stiffness against volume change.",
+    "input_data": {
+      "input_text": "Ever wondered how resistant materials are to compression? This fundamental property in physics and engineering is called the Bulk Modulus, a measure of stiffness against volume change.",
+      "service": "gtts"
+    },
+    "original_audio": "ever-wondered-how-resistant-materials-are-to-7ae18a62.mp3",
+    "final_audio": "ever-wondered-how-resistant-materials-are-to-7ae18a62.mp3"
+  },
+  {
+    "input_text": "Ever wondered how resistant materials are to compression? This fundamental property in physics and engineering is called the Bulk Modulus, a measure of stiffness against volume change.",
+    "input_data": {
+      "input_text": "Ever wondered how resistant materials are to compression? This fundamental property in physics and engineering is called the Bulk Modulus, a measure of stiffness against volume change.",
+      "service": "gtts"
+    },
+    "original_audio": "ever-wondered-how-resistant-materials-are-to-7ae18a62.mp3",
+    "final_audio": "ever-wondered-how-resistant-materials-are-to-7ae18a62.mp3"
+  },
+  {
+    "input_text": "Ever wondered if a simple theoretical machine can perform complex arithmetic? Today, we explore how a Turing machine tackles subtraction, a fundamental operation.",
+    "input_data": {
+      "input_text": "Ever wondered if a simple theoretical machine can perform complex arithmetic? Today, we explore how a Turing machine tackles subtraction, a fundamental operation.",
+      "service": "gtts"
+    },
+    "original_audio": "ever-wondered-if-a-simple-theoretical-machine-can-0fa2fe2d.mp3",
+    "final_audio": "ever-wondered-if-a-simple-theoretical-machine-can-0fa2fe2d.mp3"
+  },
+  {
+    "input_text": "A Turing machine works on an infinite tape with symbols, using a head that reads, writes, and moves based on its internal state. For subtraction, we'll represent numbers in unary format, like three ones for the number three.",
+    "input_data": {
+      "input_text": "A Turing machine works on an infinite tape with symbols, using a head that reads, writes, and moves based on its internal state. For subtraction, we'll represent numbers in unary format, like three ones for the number three.",
+      "service": "gtts"
+    },
+    "original_audio": "a-turing-machine-works-on-an-infinite-tape-with-5eac85a3.mp3",
+    "final_audio": "a-turing-machine-works-on-an-infinite-tape-with-5eac85a3.mp3"
+  },
+  {
+    "input_text": "To subtract 'N' from 'M', we initially set up the tape with 'M' ones, a separator, then 'N' ones. The machine then systematically 'crosses out' one '1' from the minuend 'M' for every '1' in the subtrahend 'N'.",
+    "input_data": {
+      "input_text": "To subtract 'N' from 'M', we initially set up the tape with 'M' ones, a separator, then 'N' ones. The machine then systematically 'crosses out' one '1' from the minuend 'M' for every '1' in the subtrahend 'N'.",
+      "service": "gtts"
+    },
+    "original_audio": "to-subtract-n-from-m-we-initially-set-up-the-tape-0f99465b.mp3",
+    "final_audio": "to-subtract-n-from-m-we-initially-set-up-the-tape-0f99465b.mp3"
+  },
+  {
+    "input_text": "Let's visualize 5 minus 3. We have five ones, a separator, and three ones. The machine would repeatedly mark a '1' from the first group and a '1' from the second group until the second group is depleted. The remaining ones are our answer: two.",
+    "input_data": {
+      "input_text": "Let's visualize 5 minus 3. We have five ones, a separator, and three ones. The machine would repeatedly mark a '1' from the first group and a '1' from the second group until the second group is depleted. The remaining ones are our answer: two.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-visualize-5-minus-3-we-have-five-ones-a-d5e7ed32.mp3",
+    "final_audio": "let-s-visualize-5-minus-3-we-have-five-ones-a-d5e7ed32.mp3"
+  },
+  {
+    "input_text": "This shows how even complex tasks like subtraction can be reduced to basic symbolic manipulations, demonstrating the immense power and universality of a Turing machine.",
+    "input_data": {
+      "input_text": "This shows how even complex tasks like subtraction can be reduced to basic symbolic manipulations, demonstrating the immense power and universality of a Turing machine.",
+      "service": "gtts"
+    },
+    "original_audio": "this-shows-how-even-complex-tasks-like-subtraction-3e672874.mp3",
+    "final_audio": "this-shows-how-even-complex-tasks-like-subtraction-3e672874.mp3"
   }
 ]

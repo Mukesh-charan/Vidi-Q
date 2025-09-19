@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:03,407
+Imagine modeling a system, like a car on
+
+2
+00:00:03,507 --> 00:00:07,265
+a predictable road. But what happens when an
+
+3
+00:00:07,365 --> 00:00:13,052
+entirely unexpected variable, say, a 'dinosaur', suddenly appears?
+
+4
+00:00:14,466 --> 00:00:19,352
+In mathematics, we often use linear functions to predict
+
+5
+00:00:19,452 --> 00:00:23,358
+motion. A simple y equals mx plus b describes
+
+6
+00:00:23,458 --> 00:00:28,166
+a constant speed, assuming a smooth, undisturbed path.
+
+7
+00:00:28,666 --> 00:00:34,637
+The 'dinosaur in the road' represents a sudden, non-linear perturbation.
+
+8
+00:00:34,737 --> 00:00:39,696
+It's a stochastic event, an outlier that defies our initial,
+
+9
+00:00:39,796 --> 00:00:44,502
+simplified models, forcing us to rethink our assumptions.
+
+10
+00:00:45,133 --> 00:00:49,106
+Consider a point moving along this predicted path.
+
+11
+00:00:49,206 --> 00:00:53,341
+The 'dinosaur' introduces chaos, forcing the path to
+
+12
+00:00:53,441 --> 00:00:58,473
+deviate, demonstrating the limits of deterministic predictions.
+
+13
+00:01:00,066 --> 00:01:04,814
+So, while models provide structure, remember that real-world
+
+14
+00:01:04,914 --> 00:01:09,258
+scenarios often hide 'dinosaurs,' reminding us to build
+
+15
+00:01:09,358 --> 00:01:12,974
+flexibility and account for the unpredictable.
+

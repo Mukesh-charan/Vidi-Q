@@ -37,7 +37,7 @@ def send_to_zapier():
     print("Received data:", data)
 
     # Send the received data to Zapier's Webhook
-    zapier_webhook_url = os.getenv('ZAPIER_WEBHOOK_URL')
+    zapier_webhook_url = os.getenv("ZAPIER_WEBHOOK_URL")
     if not zapier_webhook_url:
         return jsonify({"message": "Zapier webhook URL not configured"}), 500
     zapier_response = requests.post(zapier_webhook_url, json=data)
@@ -124,9 +124,10 @@ def get_video_details(video_id):
 # --- Public config for frontend (safe values only) ---
 @app.route('/api/public-config', methods=['GET'])
 def public_config():
+    import os
     return jsonify({
-        "SUPABASE_URL": os.getenv('SUPABASE_URL', ''),
-        "SUPABASE_ANON_KEY": os.getenv('SUPABASE_ANON_KEY', ''),
+        "SUPABASE_URL": os.getenv("SUPABASE_URL"),
+        "SUPABASE_ANON_KEY": os.getenv("SUPABASE_ANON_KEY"),
     })
 
 # --- Proxy: Generate quiz using Gemini API (server-side key) ---
@@ -142,10 +143,10 @@ def generate_quiz():
         if not video_id:
             return jsonify({"error": "video_id is required"}), 400
 
-        api_key = "AIzaSyB3SELs4ZiTA6K3OG96FxbZa5ZHBt76QWg"
+        import os
+        api_key = os.getenv("GEMINI_API_KEY")
         if not api_key:
             return jsonify({"error": "GEMINI_API_KEY not configured"}), 500
-
         api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
 
         system_prompt = (

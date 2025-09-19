@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:04,919
+How do big data systems handle massive datasets efficiently and
+
+2
+00:00:05,019 --> 00:00:09,620
+reliably? The secret often lies in something called an RDD.
+
+3
+00:00:10,800 --> 00:00:15,113
+Big Data processing needs fault tolerance and parallelization.
+
+4
+00:00:15,213 --> 00:00:19,100
+Traditional data structures struggle with this at scale.
+
+5
+00:00:20,266 --> 00:00:24,701
+An RDD, or Resilient Distributed Dataset, is a fundamental
+
+6
+00:00:24,801 --> 00:00:29,626
+data structure in frameworks like Apache Spark. Resilient means
+
+7
+00:00:29,726 --> 00:00:34,395
+it can rebuild lost partitions using its lineage. Distributed
+
+8
+00:00:34,495 --> 00:00:39,320
+means it's spread across many machines for parallel processing.
+
+9
+00:00:39,420 --> 00:00:43,854
+And Dataset refers to an immutable collection of elements.
+
+10
+00:00:45,000 --> 00:00:48,997
+Imagine filtering a huge log file. An RDD lets
+
+11
+00:00:49,097 --> 00:00:54,074
+you define transformations like 'map' or 'filter' on your
+
+12
+00:00:54,174 --> 00:00:58,796
+data, which are then executed lazily and in parallel.
+
+13
+00:01:00,000 --> 00:01:04,061
+RDDs are key to scalable, fault-tolerant Big Data
+
+14
+00:01:04,161 --> 00:01:09,836
+processing, enabling efficient parallel computation across clusters.
+

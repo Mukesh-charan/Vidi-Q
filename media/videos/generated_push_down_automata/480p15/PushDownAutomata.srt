@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:05,528
+How do computers understand programming languages? The magic behind
+
+2
+00:00:05,628 --> 00:00:11,240
+parsing complex syntax often involves a powerful theoretical machine
+
+3
+00:00:11,340 --> 00:00:14,348
+called a Push Down Automaton, or PDA.
+
+4
+00:00:15,533 --> 00:00:21,150
+Remember Finite Automata? They recognize regular languages. But for
+
+5
+00:00:21,250 --> 00:00:26,697
+more complex patterns, like matching parentheses, we need memory.
+
+6
+00:00:26,797 --> 00:00:30,025
+PDAs add a stack for this very purpose.
+
+7
+00:00:31,133 --> 00:00:36,837
+A Push Down Automaton combines a finite automaton with an unbounded stack.
+
+8
+00:00:36,937 --> 00:00:42,641
+It operates by reading an input symbol, considering its current state, and
+
+9
+00:00:42,741 --> 00:00:47,112
+the top of its stack. Based on these, it transitions to a
+
+10
+00:00:47,212 --> 00:00:52,681
+new state and modifies the stack, either by pushing or popping symbols.
+
+11
+00:00:53,800 --> 00:01:00,141
+Consider checking well-formed parentheses. An opening parenthesis is pushed onto
+
+12
+00:01:00,241 --> 00:01:03,925
+the stack. A closing one causes a pop, *if* the
+
+13
+00:01:04,025 --> 00:01:08,112
+stack top is an opening parenthesis. If the stack is
+
+14
+00:01:08,212 --> 00:01:11,172
+empty at the end, the string is valid.
+
+15
+00:01:12,333 --> 00:01:17,363
+PDAs are essential for recognizing context-free languages, providing the
+
+16
+00:01:17,463 --> 00:01:21,638
+memory needed to parse structured data. They are fundamental
+
+17
+00:01:21,738 --> 00:01:25,985
+to compilers and understanding programming language grammars.
+
