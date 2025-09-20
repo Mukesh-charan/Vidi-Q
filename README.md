@@ -125,7 +125,7 @@ educational-video-generator/
 │   ├── Tex/               # LaTeX rendered equations
 │   ├── texts/             # Text overlays
 │   └── voiceovers/        # Audio files
-└── index.html             # Frontend interface (if applicable)
+└── index.html             # Frontend interface
 ```
 
 ## How It Works
