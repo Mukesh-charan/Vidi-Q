@@ -31,7 +31,7 @@ SUPABASE_URL=your_supabase_url_here
 SUPABASE_ANON_KEY=your_supabase_anon_key_here
 ```
 
-- `GEMINI_API_KEY`: Your Google Gemini API key for AI-powered content generation **(Give the same in index.html file at line 191)**
+- `GEMINI_API_KEY`: Your Google Gemini API key for AI-powered content generation **(Give the same in index.html file at line 191 and llm_handler.py at line 7)**
 - `ZAPIER_WEBHOOK_URL`: Your Zapier webhook URL for automation workflows
 - `SUPABASE_URL`: Your Supabase project URL for database integration **(Give the same in index.html file at line 55)**
 - `SUPABASE_ANON_KEY`: Your Supabase anonymous key for client-side access **(Give the same in index.html file at line 56)**
