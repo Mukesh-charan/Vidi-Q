@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 # It's recommended to set the API key as an environment variable for security
 load_dotenv()
-GOOGLE_API_KEY = "AIzaSyB3SELs4ZiTA6K3OG96FxbZa5ZHBt76QWg"
+GOOGLE_API_KEY = "" """Give your Gemini API key"""
 
 # Warn if key is missing; do not hardcode in code
 if not GOOGLE_API_KEY:
